@@ -1,0 +1,12 @@
+#botao {
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    border-color: coral;
+    border-radius: 20px;
+    font-weight: 500;
+    
+}
+
+#botao:hover {
+    cursor: pointer;
+}

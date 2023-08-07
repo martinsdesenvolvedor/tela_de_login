@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo-principal {
+    text-align: center;
+    color: #7EBB3D;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
